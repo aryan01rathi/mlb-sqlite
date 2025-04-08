@@ -1,1 +1,5 @@
-*.db\n*.sqlite\n.RData\n.Rhistory
+*.db
+*.sqlite
+.RData
+.Rhistory
+game_log.csv
